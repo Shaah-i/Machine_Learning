@@ -6,7 +6,7 @@
 
 
 ## Aim :
-### To perdict the temperature using Linear regression and evaluating the model based on prefomance metrics.
+### To predict the temperature using Linear regression and evaluating the model based on preformance metrics.
 
 
 ## Tools and libraries:
