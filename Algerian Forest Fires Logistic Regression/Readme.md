@@ -22,12 +22,15 @@
 
 ## Inferences
 
-We were successfully able to predict Classes values for imbalance data with the precission and recall of :
-precision : 
-recall : 
+As the dataset was balanecd we directly proceeded second problem statment.
 
-We were successfully able to predict Classes values for a balanced data (converted) with acurracy of __ which is more than 90%.
+We were successfully able to predict Classes values for imbalance data with the performance metrics as follows :
+accuracy = 95.94%
+precision = 97.14%
+recall = 94.44%
+f2 score = 94.97%
 
+We were able to achieve accuracy greater than 90%
 
 For detailed EDA refer : [🔥Algerian Forest Fires Dataset EDA](https://github.com/Shaah-i/EDA/tree/main/Algerian%20Forest%20Fires%20EDA)
 Check out other EDA [here](https://github.com/Shaah-i/EDA)
