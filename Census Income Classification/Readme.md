@@ -1,7 +1,7 @@
 ﻿# 👨‍👨‍👦‍👦Census Income Dataset Classification
 
 ## Data source :
-* Data was taken from [https://archive.ics.uci.edu/ml/datasets/Census+Income).
+* Data was taken from [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
 ## AIM :
 ### Prediction task is to determine whether a person makes over 50K a year.
@@ -21,6 +21,6 @@
 
 We were successfully able to predict if the salary is above or below 50K. The best model is SVC with rbf kernel. We achieved an accuracy of 85% after hyper parameter tuning.
 
-Check out other [EDA repository](https://github.com/Shaah-i/EDA)
-Check out other [Machine Learning repository]( https://github.com/Shaah-i/Machine_Learning)
+Check out other EDA in [EDA repository](https://github.com/Shaah-i/EDA).</br>
+Check out other Machine Learning problems in [Machine Learning repository](https://github.com/Shaah-i/Machine_Learning).</br>
 
