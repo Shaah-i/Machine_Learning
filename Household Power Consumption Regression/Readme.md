@@ -1,7 +1,7 @@
 ﻿# ⚡🏘 Household Power Consumption
 
 ## Data source:
-* Data was taken from [https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption#).
+* Data was taken from [UCI](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption#).
 
 ## AIM:
 ### Prediction task is to determine Total electricity consumption for a household.
