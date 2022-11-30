@@ -6,15 +6,17 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2cdo4blch85n8.cloudfront.net%2Fwp-content%2Fuploads%2F2019%2F10%2FScania-AXL-Autonomous-Truck-Concept-Featured-image.jpg&f=1&nofb=1&ipt=7593f333a2546b019ad75674b641005cb881202cc698e4763e5a92765697c996&ipo=images">
 
 
-**For the code please check out my [APS Failure Scania]() Trucks notebook on GitHub**
+### For the code please check out my [APS Failure Scania Trucks](https://github.com/Shaah-i/Machine_Learning/blob/main/APS%20Failure%20Scania%20Trucks%20Classification/APS_Failure_Scania_Trucks_Classification_ALL.ipynb) notebook on GitHub
 
 
 
 ## Data source:
 * Data was taken from [UCI](https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks).
 
-## AIM: The dataset consists of data collected from heavy Scania trucks in everyday usage. The system in focus is the Air Pressure system (APS) which generates pressurised air that are utilized in various functions in a truck, such as braking and gear changes. The datasets' positive class consists of component failures for a specific component of the APS system. The negative class consists of trucks with failures for components not related to the APS. The data consists of a subset of all available data, selected by experts.
-**Predict if the probable failure is of the APS system or other components.**
+## AIM: Predict if the probable failure is of the APS system or other components.
+
+**The dataset consists of data collected from heavy Scania trucks in everyday usage. The system in focus is the Air Pressure system (APS) which generates pressurised air that are utilized in various functions in a truck, such as braking and gear changes. The datasets' positive class consists of component failures for a specific component of the APS system. The negative class consists of trucks with failures for components not related to the APS. The data consists of a subset of all available data, selected by experts.**
+
 
 
 ### 1. EDA and FE
@@ -71,9 +73,9 @@
 
 ---
 
-**Follow me on LinkedIn: ** https://www.linkedin.com/in/shubham-shaah/
+**Follow me on [LinkedIn](https://www.linkedin.com/in/shubham-shaah/):** https://www.linkedin.com/in/shubham-shaah/
 
-**Follow me on GitHub: ** https://github.com/Shaah-i
+**Follow me on [GitHub](https://github.com/Shaah-i):** https://github.com/Shaah-i
 
 
 
