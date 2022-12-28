@@ -22,9 +22,9 @@ Machine Learning Repository README
 
 ### :man_technologist: About This Repo :
 
-This repository consist of all the algorithms that I have practiced on various datasets.
-You would find the problem statments of specific dataset in the readme files.
-I have written what algorithms have I used in that notebook in the readme file as well.
+This repository consist of all solutions to the real life problems solved using various Machine Learning Techniques.
+You would find the problem statments of specific dataset in the respective readme files.
+I have written about the algorithms I have used in that notebook in the readme file as well.
 I have uploaded the data needed for machine learning or have given the right links to where you can find them.
 Your doubts and suggestions are most welcomed. You can drop a mail for the same.
 
